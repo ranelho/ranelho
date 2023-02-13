@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá! Eu sou Ranelho!
+
+![Ranelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranelho&show_icons=true&theme=transparent)
+
+- 🔭 Atualmente estou trabalhando com backend Java Spring Boot.
+- 🌱 Atualmente estou aprendendo Microsservices.
 
 <!--
 **ranelho/ranelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
