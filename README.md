@@ -3,6 +3,7 @@
 ![Ranelho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranelho&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br>
+  <h3>LINGUAGENS DE ATUAÇÃO</h3>
   
   <img align="center" alt="Ranelho-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Ranelho-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
