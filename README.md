@@ -1,5 +1,8 @@
 # 💫 About Me:
-Sou apaixonado por desenvolvimento de software, e estou sempre buscando maneiras de entregar soluções de alta qualidade para meus clientes e usuários. Desenvolvedor Java altamente experiente com mais de 10 anos de experiência em diversas áreas de TI. Atualmente, estou focado em desenvolvimento de software utilizando Java e Spring Boot, duas das tecnologias mais populares e eficientes do mercado.
+Tenho um interesse especial pelo desenvolvimento de software e meu objetivo é criar soluções de alta qualidade para atender às necessidades dos clientes e usuários. Com mais de 10 anos de experiência em diversos setores de TI, sou um desenvolvedor especializado em Java.
+Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologias Java e Spring Boot, que são altamente eficientes e amplamente adotadas no mercado. Minha expertise inclui:
+Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter atualizado com as últimas tendências do setor. Buscando aprender e evoluir e aplicar novas tecnologias, além de estar sempre em busca de oportunidades desafiadoras para expandir meus conhecimentos.
+
 
 
 ## 🌐 Sociais:
