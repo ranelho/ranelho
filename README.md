@@ -1,9 +1,7 @@
 # 💫 About Me:
 Tenho um interesse especial pelo desenvolvimento de software e meu objetivo é criar soluções de alta qualidade para atender às necessidades dos clientes e usuários. Com mais de 10 anos de experiência em diversos setores de TI, sou um desenvolvedor especializado em Java.
-Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologias Java e Spring Boot, que são altamente eficientes e amplamente adotadas no mercado. Minha expertise inclui:
+Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologias Java e Spring Boot.
 Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter atualizado com as últimas tendências do setor. Buscando aprender e evoluir e aplicar novas tecnologias, além de estar sempre em busca de oportunidades desafiadoras para expandir meus conhecimentos.
-
-
 
 ## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranelho-java) 
