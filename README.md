@@ -12,7 +12,7 @@ Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologia
 
 Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter atualizado com as últimas tendências do setor. Buscando aprender e evoluir e aplicar novas tecnologias, além de estar sempre em busca de oportunidades desafiadoras para expandir meus conhecimentos.
 
-## Principais competênciasPrincipais competências
+## Principais competências
 Spring Boot • Banco de dados • Java • Desenvolvimento Java • Desenvolvimento de back-end
 
 ## 🌐 Sociais:
