@@ -1,7 +1,19 @@
 # 💫 About Me:
-Tenho um interesse especial pelo desenvolvimento de software e meu objetivo é criar soluções de alta qualidade para atender às necessidades dos clientes e usuários. Com mais de 10 anos de experiência em diversos setores de TI, sou um desenvolvedor especializado em Java.
-Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologias Java e Spring Boot.
-Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter atualizado com as últimas tendências do setor. Buscando aprender e evoluir e aplicar novas tecnologias, além de estar sempre em busca de oportunidades desafiadoras para expandir meus conhecimentos.
+Tenho interesse especial pelo desenvolvimento de software e meu objetivo é criar soluções de alta qualidade para atender às necessidades dos clientes e usuários. Com mais de 10 anos de experiência em diversos setores de TI, sou um desenvolvedor especializado em Java.
+
+Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologias Java e Spring Boot, que são altamente eficientes e amplamente adotadas no mercado. 
+
+• Desenvolvimento de APIs RESTful com Java e Spring Framework, seguindo a arquitetura Cloud First na AWS, Microservices. 
+• Utilização de bancos de dados relacionais, como PostgreSQL e MySQL, e não-relacionais, como MongoDB, para persistência de dados.
+• Experiência com metodologias ágeis, como Scrum, para entregas eficientes e colaborativas.
+• Utilização do Git, GitHub e GitFlow para controle de versão e colaboração em projetos de equipe.
+• Frameworks e tecnologias: Spring Boot, Spring WEB MVC, Spring Data MongoDB, Spring Security JWT, Swagger, Hibernate, LOMBOK, Maven.
+• Ambiente tecnológico: PostgreSQL, GitHub, AWS e Jira.
+
+Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter atualizado com as últimas tendências do setor. Buscando aprender e evoluir e aplicar novas tecnologias, além de estar sempre em busca de oportunidades desafiadoras para expandir meus conhecimentos.Tenho interesse especial pelo desenvolvimento de software e meu objetivo é criar soluções de alta qualidade para atender às necessidades dos clientes e usuários. Com mais de 10 anos de experiência em diversos setores de TI, sou um desenvolvedor especializado em Java. Atualmente, concentro-me no desenvolvimento de software utilizando as tecnologias Java e Spring Boot, que são altamente eficientes e amplamente adotadas no mercado. • Desenvolvimento de APIs RESTful com Java e Spring Framework, seguindo a arquitetura Cloud First na AWS, Microservices. • Utilização de bancos de dados relacionais, como PostgreSQL e MySQL, e não-relacionais, como MongoDB, para persistência de dados. • Experiência com metodologias ágeis, como Scrum, para entregas eficientes e colaborativas. • Utilização do Git, GitHub e GitFlow para controle de versão e colaboração em projetos de equipe. • Frameworks e tecnologias: Spring Boot, Spring WEB MVC, Spring Data MongoDB, Spring Security JWT, Swagger, Hibernate, LOMBOK, Maven. • Ambiente tecnológico: PostgreSQL, GitHub, AWS e Jira. Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter atualizado com as últimas tendências do setor. Buscando aprender e evoluir e aplicar novas tecnologias, além de estar sempre em busca de oportunidades desafiadoras para expandir meus conhecimentos.
+
+## Principais competênciasPrincipais competências
+Spring Boot • Banco de dados • Java • Desenvolvimento Java • Desenvolvimento de back-end
 
 ## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranelho-java) 
