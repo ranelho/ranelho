@@ -17,7 +17,7 @@ Estou constantemente buscando aprimorar minhas habilidades técnicas e me manter
 ## Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/ranelho)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ranelkho-java/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/ranelho-java)
 
 ## Principais competências
 Spring Boot • Banco de dados • Java • Desenvolvimento Java • Desenvolvimento de back-end
